@@ -28,7 +28,7 @@
 </p>
 
 
-## Development 
+## Development
 
 Running demo for development:
 
